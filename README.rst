@@ -1,5 +1,5 @@
-.. image:: http://img.shields.io/badge/arXiv-1806.10206-orange.svg?style=flat
-:target: http://arxiv.org/abs/1806.10206
+.. image:: http://img.shields.io/badge/arXiv-1806.10206-blue.svg?style=flat
+        :target: http://arxiv.org/abs/1806.10206
 
 Deep Feature Factorization (DFF)
 --------------------------------
