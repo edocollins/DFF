@@ -4,7 +4,7 @@
 Deep Feature Factorization (DFF)
 --------------------------------
 
-**DFF** is the application of non-negative matrix faxtorization (NMF) to the ReLU feature activations of a deep neural network. In the case of CNNs trained on images, the resulting factors decompose an image batch into semenatic parts with a high degree of invariance to complex transformations.
+**DFF_** is the application of non-negative matrix faxtorization (NMF) to the ReLU feature activations of a deep neural network. In the case of CNNs trained on images, the resulting factors decompose an image batch into semenatic parts with a high degree of invariance to complex transformations.
 
 This implementation relies on Pytorch and includes a GPU implementation of NMF with multiplicative updates (Lee and Seung, 2001).
 
@@ -14,3 +14,5 @@ This implementation relies on Pytorch and includes a GPU implementation of NMF w
 	booktitle = {The European Conference on Computer Vision (ECCV)},
 	year = {2018}
 } 
+
+.. _DFF: https://ivrlwww.epfl.ch/~ecollins/deep_feature_factorization/
