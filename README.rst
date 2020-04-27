@@ -16,4 +16,4 @@ This implementation relies on Pytorch and includes a GPU implementation of NMF w
 	
 } 
 
-.. _DFF: https://ivrlwww.epfl.ch/~ecollins/deep_feature_factorization/
+.. _DFF: https://ivrlwww.epfl.ch/ecollins/deep_feature_factorization/
